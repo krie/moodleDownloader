@@ -15,6 +15,8 @@ import org.jsoup.nodes.Element;
 
 /**
  * moodleDownloader is a program that downloads all files from the courses on moodle.htw-berlin.de
+ *
+ * @author Julian Krieft
  */
 public class App {
     /**
