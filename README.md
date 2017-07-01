@@ -1,5 +1,5 @@
 # moodleDownloader
-Downloader for HTW Berlin moodle
+Simple Downloader for HTW Berlin moodle
 
 ## Build
 
